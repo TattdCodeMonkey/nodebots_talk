@@ -10,10 +10,11 @@
 
 ##Resources for Sumobot Jr
 Laser Cutting: [Ponoko](https://www.ponoko.com/)
+
 Ponoko ready Laser cutting plans-
-  [3mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-3mm_ponoko.eps)
-  [5mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_ponoko.eps)
-  [Two 5mm - Updated Design](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_double_ponoko_updated.eps)
+<br>  [3mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-3mm_ponoko.eps)
+<br>  [5mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_ponoko.eps)
+<br>  [Two 5mm - Updated Design](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_double_ponoko_updated.eps)
 
 3D Printing: [Shapeways](http://www.shapeways.com/)
   [Ball Caster 3d print .stl](https://github.com/makenai/sumobot-jr/blob/master/3d_print/BallCaster.stl)
