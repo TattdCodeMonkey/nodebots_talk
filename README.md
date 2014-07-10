@@ -11,15 +11,15 @@
 ##Resources for Sumobot Jr
 Laser Cutting: [Ponoko](https://www.ponoko.com/)
 
-Ponoko ready Laser cutting plans-
-<br>  [3mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-3mm_ponoko.eps)
-<br>  [5mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_ponoko.eps)
-<br>  [Two 5mm - Updated Design](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_double_ponoko_updated.eps)
+Ponoko ready Laser cutting plans-<br>
+    [3mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-3mm_ponoko.eps)<br>
+    [5mm Thickness - Original](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_ponoko.eps)<br>
+    [Two 5mm - Updated Design](https://github.com/makenai/sumobot-jr/blob/master/cutting_plans/sumbotjr-5mm_double_ponoko_updated.eps)<br>
 
-3D Printing: [Shapeways](http://www.shapeways.com/)
-<br>  [Ball Caster 3d print .stl](https://github.com/makenai/sumobot-jr/blob/master/3d_print/BallCaster.stl)
+3D Printing: [Shapeways](http://www.shapeways.com/)<br>
+    [Ball Caster 3d print .stl](https://github.com/makenai/sumobot-jr/blob/master/3d_print/BallCaster.stl)
 
-If you want to 3d print the frame instead of using laser cut those files are [HERE](https://github.com/makenai/sumobot-jr/tree/master/3d_print/sumobot)
+If you want to 3d print the frame instead of using laser cut wood, those files are [HERE](https://github.com/makenai/sumobot-jr/tree/master/3d_print/sumobot)
 
 [Continuous Rotation Servos](http://www.pololu.com/product/536)<br>
 [Battery Box](http://www.pololu.com/product/1153)
