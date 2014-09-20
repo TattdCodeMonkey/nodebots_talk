@@ -1,0 +1,9 @@
+{
+  "name": "nodeBots-demo-sumobot",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "johnny-five": "*",
+    "keypress":"*"
+  }
+}
