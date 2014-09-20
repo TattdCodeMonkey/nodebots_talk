@@ -1,4 +1,4 @@
-#Nodebots Talk & Demo - Rodney Norris
+#Nodebots - Coder Faire 2014 - Rodney Norris
 
 [Johnny-Five](https://github.com/rwaldron/johnny-five) - [@rwaldron](https://twitter.com/rwaldron)
 
@@ -6,7 +6,7 @@
 
 [Video of NashJS Talk](https://www.youtube.com/watch?v=ufl_uWq1m9U)
 
-[Slides](https://github.com/TattedCodeMonkey/nodebots_talk/blob/master/Building_A_Nodebot-Slides.pdf)
+[Slides](https://github.com/TattdCodeMonkey/nodebots_talk/blob/master/Nodebots.pdf)
 
 ##Resources for Sumobot Jr
 Laser Cutting: [Ponoko](https://www.ponoko.com/)
