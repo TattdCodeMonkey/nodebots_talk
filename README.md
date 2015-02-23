@@ -1,4 +1,4 @@
-#Nodebots - Coder Faire 2014 - Rodney Norris
+#Nodebots - Rodney Norris
 
 [Johnny-Five](https://github.com/rwaldron/johnny-five) - [@rwaldron](https://twitter.com/rwaldron)
 
